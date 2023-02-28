@@ -1,2 +1,4 @@
 # Encryptor
-file encryptor
+File encryptor
+
+ALL RIGHTS RESERVED BY Silent Death_53
